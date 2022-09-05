@@ -1,3 +1,5 @@
+**Forked version of [node-xtraverse](https://github.com/jaredhanson/node-xtraverse) until this [PR](https://github.com/jaredhanson/node-xtraverse/pull/2) gets merged.**
+
 # xtraverse
 
 [![Build](https://travis-ci.org/jaredhanson/node-xtraverse.png)](http://travis-ci.org/jaredhanson/node-xtraverse)
