@@ -1,6 +1,6 @@
 {
-  "name": "xtraverse",
-  "version": "0.1.0",
+  "name": "@rodrigoborgesdeoliveira/xtraverse",
+  "version": "1.0.0",
   "description": "Wrapper for simplifying XML traversal.",
   "keywords": [
     "xml",
@@ -29,11 +29,11 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "@xmldom/xmldom": "^0.7.5"
+    "@xmldom/xmldom": "^0.8.2"
   },
   "devDependencies": {
-    "mocha": "1.x.x",
-    "chai": "1.x.x"
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
   },
   "engines": {
     "node": ">= 0.4.0"
